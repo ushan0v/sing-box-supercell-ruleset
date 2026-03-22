@@ -1,0 +1,21 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain_suffix": [
+        "supercell.com",
+        "clashroyaleapp.com",
+        "clashroyale.com",
+        "clashofclans.com",
+        "brawlstarsgame.com",
+        "brawlstars.com",
+        "haydaygame.com",
+        "hayday.com",
+        "boombeachgame.com",
+        "boombeach.com",
+        "squadbusters.com",
+        "mo.co"
+      ]
+    }
+  ]
+}
