@@ -4,18 +4,28 @@ Binary `.srs` rule-set for Supercell domains.
 
 ## Included domain suffixes
 
-- `supercell.com`
-- `clashroyaleapp.com`
-- `clashroyale.com`
-- `clashofclans.com`
-- `brawlstarsgame.com`
-- `brawlstars.com`
-- `haydaygame.com`
-- `hayday.com`
 - `boombeachgame.com`
 - `boombeach.com`
-- `squadbusters.com`
+- `brawlstars.com`
+- `brawlstarsgame.com`
+- `clash.com`
+- `clashmini.com`
+- `clashofclans.com`
+- `clashroyale.com`
+- `clashroyaleapp.com`
+- `gamesfirsthelsinki.com`
+- `hayday.com`
+- `haydaygame.com`
 - `mo.co`
+- `seeurlpcl.com`
+- `squadbusters.com`
+- `supercell.com`
+- `supercell.helpshift.com`
+- `supercell.net`
+- `supercellcreators.com`
+- `supercellgames.com`
+- `supercellid.com`
+- `supercellstore.com`
 
 ## Files
 
@@ -45,4 +55,3 @@ Binary `.srs` rule-set for Supercell domains.
   }
 }
 ```
-Binary sing-box rule-set (.srs) for Supercell domains
